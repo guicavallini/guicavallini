@@ -8,8 +8,6 @@
 </ul>
 
 <br>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicavallini&layout=compact&langs_count=7&theme=dark"/>
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
 <i>linguagem e ferramentas<i>
@@ -25,6 +23,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicavallini&layout=compact&langs_count=7&theme=dark"/>
 
 <h3> :earth_americas: Aonde me encontrar: </h3> 
 
