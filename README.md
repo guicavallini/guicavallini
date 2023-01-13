@@ -1,4 +1,4 @@
-## Olá
+## Olá 👋
 
 <p>Me chamo Guilhemre Cavallini<p>
 
