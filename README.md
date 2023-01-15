@@ -5,6 +5,7 @@
 <ul>
 <li> Sou um programador Front-end;
 <li> Tenho interesse em desenvolvimento web/software e novas tecnologias.
+<li> Estou sempre em busca de novos projetos
 </ul>
 
 <br>
