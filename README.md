@@ -1,6 +1,6 @@
 ## Olá 👋
 
-<p>Me chamo Guilhemre Cavallini<p>
+<p>Me chamo Guilherme Cavallini<p>
 
 <ul>
 <li> Sou um programador Front-end;
